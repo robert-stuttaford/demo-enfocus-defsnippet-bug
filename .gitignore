@@ -1,0 +1,4 @@
+.crossover-cljs
+.lein*
+target
+*.js
